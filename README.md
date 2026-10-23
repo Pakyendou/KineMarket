@@ -44,3 +44,7 @@ L'objectif principal est de piloter l'activité commerciale globale en analysant
   * Définition de mesures calculées pour évaluer la marge nette (%), le profit global et le volume de ventes.
 * Data Transformation (Power Query) :
   * Structuration et harmonisation des données de ventes, produits et régions.
+ 
+  * ---
+## 📂 Autres Réalisations
+* 📊 **[Rapport de Ventes Interactif — US](https://github.com/pakyendou/nom-du-depot-analyse-ventes)** : Suivi du chiffre d'affaires (172 M€), des volumes et analyse cartographique des ventes aux États-Unis.
