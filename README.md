@@ -3,7 +3,7 @@
 ## Présentation du Projet
 Ce projet présente un tableau de bord analytique et financier réalisé sous **Power BI** pour l'enseigne **Kin-Marché**. 
 
-L'objectif principal est de piloter l'activité commerciale globale en analysant le chiffre d'affaires, les volumes d'articles vendus, la rentabilité générée (profit et marge) ainsi que les canaux de distribution et la répartition géographique des ventes[cite: 2].
+L'objectif principal est de piloter l'activité commerciale globale en analysant le chiffre d'affaires, les volumes d'articles vendus, la rentabilité générée (profit et marge) ainsi que les canaux de distribution et la répartition géographique des ventes.
 
 ---
 
