@@ -1,4 +1,4 @@
-# Tableau de Bord Commercial & Rentabilité — Kin-Marché
+# Tableau de Bord Commercial et Rentabilité_Kin-Marché
 
 ## Présentation du Projet
 Ce projet présente un tableau de bord analytique et financier réalisé sous **Power BI** pour l'enseigne **Kin-Marché**. 
